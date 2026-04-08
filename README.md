@@ -12,3 +12,9 @@ A responsive calculator application built using React, demonstrating component-b
 - React.js
 - JavaScript
 - CSS
+
+## Live Demo
+Check out project here:
+[Calculator-react](https://calculator-react-psi-brown.vercel.app/)
+
+Built by Anchal Bisht
